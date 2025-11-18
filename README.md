@@ -40,7 +40,7 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 - **Font Awesome** - Icons and visual elements
 
 ## 📁 Project Structure
-
+```
 Guess-My-Number-/
 │
 ├── index.html # Main HTML file
@@ -52,11 +52,11 @@ Guess-My-Number-/
 ├── Correct Answer.png # Screenshot - winning state
 ├── Dashboard.png # Screenshot - main interface
 └── Too-High-Score.png # Screenshot - hint feedback
-
+```
 
 ## 🔧 Installation
 
-``bash
+````bash
 # Clone the repository
 git clone https://github.com/gaball1/Guess-My-Number-.git
 
@@ -64,7 +64,7 @@ git clone https://github.com/gaball1/Guess-My-Number-.git
 cd Guess-My-Number-
 
 # Open index.html in your browser
-
+````
 ## 📝 License
 This project is open source and available under the MIT License.
 
