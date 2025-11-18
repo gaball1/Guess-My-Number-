@@ -5,6 +5,17 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 ## 🎮 Live Demo
 [Play the Game Here](https://gaball1.github.io/Guess-My-Number-/)
 
+## 📸 Screenshots
+
+### Main Game Interface
+![Dashboard](https://github.com/gaball1/Guess-My-Number-/blob/main/Correct%20Answer.png)
+
+### Game Hint - Too High
+![Too High Score](https://github.com/gaball1/Guess-My-Number-/blob/main/Too-High-Score.png)
+
+### Winning Moment
+![Correct Answer](https://github.com/gaball1/Guess-My-Number-/blob/main/Dashboard.png)
+
 ## ✨ Features
 
 - **🎲 Random Number Generation**: New secret number every game
